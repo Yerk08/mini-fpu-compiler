@@ -1,0 +1,9 @@
+integral
+integral.exe
+testintegral
+testintegral.exe
+building
+building.exe
+.clang-format
+.clang-tidy
+*.o
